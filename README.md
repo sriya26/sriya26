@@ -1,3 +1,4 @@
+![banner](https://capsule-render.vercel.app/api?type=waving&color=0:5f9cff,100:8fd3f4&height=200&section=header&text=Sriya%20Rallabandi&fontSize=40)
 ## Hi there 👋
 
 <!--
