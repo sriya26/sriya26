@@ -83,6 +83,13 @@ I enjoy building **full-stack and machine learning systems that move from resear
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sriya26&layout=compact&theme=tokyonight)
 
 ---
+
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/sriya26/sriya26/blob/output/github-contribution-grid-snake.svg)
+
+---
+
 ## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sriya%20Rallabandi-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sriya-rallabandi/)
