@@ -78,9 +78,9 @@ I enjoy building **full-stack and machine learning systems that move from resear
 
 # 📊 GitHub Stats
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=sriya26&show_icons=true&theme=tokyonight&hide_border=true&v=2" alt="Sriya's GitHub stats" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sriya26&layout=compact&theme=tokyonight&hide_border=true&v=2" alt="Top Languages" />
+[![Followers](https://img.shields.io/github/followers/sriya26?style=for-the-badge&label=Followers)](https://github.com/sriya26)
+[![Public Repositories](https://img.shields.io/github/public-repos/sriya26?style=for-the-badge&label=Public%20Repositories)](https://github.com/sriya26?tab=repositories)
+[![Total Stars](https://img.shields.io/github/stars/sriya26?style=for-the-badge&label=Total%20Stars)](https://github.com/sriya26?tab=repositories)
 
 ---
 
