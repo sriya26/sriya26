@@ -78,9 +78,9 @@ I enjoy building **full-stack and machine learning systems that move from resear
 
 # 📊 GitHub Stats
 
-![Sriya's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=sriya26&show_icons=true&theme=tokyonight)
+![Sriya's GitHub stats](https://github-readme-stats.vercel.app/api?username=sriya26&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sriya26&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sriya26&layout=compact&theme=tokyonight)
 
 ---
 
